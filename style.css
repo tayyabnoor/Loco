@@ -439,4 +439,53 @@
   .homepage {
     gap: 74px 298px;
   }
+  .wrapper-group-10 {
+    top: 11px;
+    left: 0px;
+    width: 260px;
+    height: 428px;
+  }
+  .rectangle-group {
+    flex-direction: column;
+    height:233px;
+  }
+
+  .button-icon {
+    top: 841px;
+    left: -12px;
+    width: 270px;
+    height: 330px;
+  }
+
+  .icon {
+    left: -12px;
+    width: 270px;
+    top: 1220px;
+  }
+
+  .homepage-child {
+    padding-top:650px;
+  }
+
+  .frame-container {
+    width: 320px;
+  }
+
+  .card-icon {
+    height: 300px;
+    min-height: 273px;
+    max-width: 100%;
+  }
+
+  .copyright-2024 {
+    width: 320px;
+  }
+
+
+
+
+
+
 }
+
+
