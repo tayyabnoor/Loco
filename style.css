@@ -447,7 +447,7 @@
   }
   .rectangle-group {
     flex-direction: column;
-    height:233px;
+    height:250px;
   }
 
   .button-icon {
@@ -481,6 +481,17 @@
     width: 320px;
   }
 
+  .button {
+    display: none;
+  }
+
+  .buysell-tax-00, .max-supply-10{
+    font-size: 14px;
+  }
+
+  .buysell-tax-00-wrapper {
+    width: 200px;
+  }
 
 
 
